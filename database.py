@@ -1,6 +1,3 @@
-from unicodedata import name
-
-#The dictionary is in the form of Book_Database=Book_ID:{Genre,Title ,Author}
 
 Book_Database ={}
 
